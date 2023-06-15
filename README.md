@@ -1,7 +1,7 @@
 ## Basic Info
-This bot will add a member once its kicked from a group, 
-which makes you *godmode* in that group,
-have 2 accounts in `accounts.json` and its almost impossible to kick you,
+ReboundGuardian will add a member once its kicked from a group,
+which will makes you *godmode* in that group,
+have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 3 accounts = *godmode*
 
 ```
