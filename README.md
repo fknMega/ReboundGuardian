@@ -4,8 +4,11 @@ ReboundGuardian will add a member once its kicked from a group,
 which will makes you *godmode* in that group,
 have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 3 accounts = *godmode*
+<p align="center">
 
 <img src='https://i.ibb.co/Q9SH8yQ/loko.png' width='500'>
+ </p>
+   
 # Discord ReboundGuardian
 
 ReboundGuardian is a self-bot written in Node.js that helps you automatically re-add members who have been removed from a group chat on Discord. 
