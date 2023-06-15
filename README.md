@@ -20,9 +20,10 @@ A second tool that will neutralize this tool.
 
 1. Clone the repository or download the source code.
 2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the following command to install the required dependencies:
+3. Run the following commands to install the required dependencies:
 ```
    npm install discord.js-selfbot-v13
+   npm install xmlhttprequest
    ```
 
 ## Configuration
