@@ -5,8 +5,9 @@ which will makes you *godmode* in that group,
 have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 3 accounts = *godmode*
 <p align="center">
+ <img src='https://i.ibb.co/Q9SH8yQ/loko.png' width='100'>
+
 <img src='https://i.ibb.co/H7GYcYL/Mega-Github-Readme.png' width='1000'>
-<img src='https://i.ibb.co/Q9SH8yQ/loko.png' width='100'>
  </p>
    
 # Discord ReboundGuardian
