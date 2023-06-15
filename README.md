@@ -1,11 +1,15 @@
 
+<p align="center">
+
+<img src='https://i.ibb.co/Q9SH8yQ/loko.png' width='250'>
+ </p>
+
 ## Basic Info
 ReboundGuardian will add a member once its kicked from a group,
 which will makes you *godmode* in that group,
 have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 3 accounts = *godmode*
 <p align="center">
- <img src='https://i.ibb.co/Q9SH8yQ/loko.png' width='100'>
 
 <img src='https://i.ibb.co/H7GYcYL/Mega-Github-Readme.png' width='1000'>
  </p>
@@ -74,3 +78,5 @@ A second tool that will neutralize this tool.
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to customize and expand on this template based on your specific needs and project details.
+
+
