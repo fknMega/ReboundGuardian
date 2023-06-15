@@ -64,4 +64,4 @@ for (const account of accounts) {
   clients.push(client);
 }
 
-console.log("* ReboundGuardian: github.com/fknMega")
+console.log("* ReboundGuardian: https://github.com/fknMega")
