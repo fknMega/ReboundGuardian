@@ -73,7 +73,8 @@ A second tool that will neutralize this tool.
 
 - Discord self-bots are against Discord's Terms of Service. Use this bot at your own risk, as it may lead to the suspension or termination of your Discord account.
 - This bot is intended for educational or personal use only. Do not use it for malicious purposes.
-
+- A youtube video: https://www.youtube.com/watch?v=paaUW0lG55Y
+- This tool was made by fknMega
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
