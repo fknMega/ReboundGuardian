@@ -34,7 +34,7 @@ function createClient(token) {
   });
 
   client.on('channelRecipientRemove', async (channel, member) => {
-    console.log(`Client test: ${client.user.tag}`);
+   
 
     const memberId = member.id;
 
@@ -61,3 +61,5 @@ for (const account of accounts) {
   const client = createClient(token);
   clients.push(client);
 }
+
+console.log("ReboundGuardian: github.com/fknMega")
