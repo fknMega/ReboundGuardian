@@ -27,14 +27,16 @@ async function Add(id, channel, token) {
 }
 
 function createClient(token) {
-  const client = new Client();
+  const client = new Client({
+    checkUpdate: false,
+  });
 
   client.on('ready', () => {
-    console.log(`Client ready: ${client.user.tag}`);
+    console.log(`Client ready: ${client.user.username} [${client.user.id}]`);
   });
 
   client.on('channelRecipientRemove', async (channel, member) => {
-   
+
 
     const memberId = member.id;
 
@@ -62,4 +64,4 @@ for (const account of accounts) {
   clients.push(client);
 }
 
-console.log("ReboundGuardian: github.com/fknMega")
+console.log("* ReboundGuardian: github.com/fknMega")
