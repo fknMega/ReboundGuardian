@@ -69,15 +69,15 @@ A second tool that will neutralize this tool.
 
 3. The console will display logs indicating the status of each client and the re-addition of members.
 
+Exmaple log:
+
+<img src='https://i.ibb.co/wNTSmTt/NVIDIA-Share-18-RJM3a8-DT.png' width='400'>
+
 ## Notes
 
 - Discord self-bots are against Discord's Terms of Service. Use this bot at your own risk, as it may lead to the suspension or termination of your Discord account.
 - This bot is intended for educational or personal use only. Do not use it for malicious purposes.
 - A youtube video: https://www.youtube.com/watch?v=paaUW0lG55Y
 - This tool was made by fknMega
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-Feel free to customize and expand on this template based on your specific needs and project details.
 
 
