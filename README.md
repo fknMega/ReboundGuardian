@@ -1,10 +1,10 @@
+
 ## Basic Info
 ReboundGuardian will add a member once its kicked from a group,
 which will makes you *godmode* in that group,
 have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 3 accounts = *godmode*
 
-```
 # Discord ReboundGuardian
 
 ReboundGuardian is a self-bot written in Node.js that helps you automatically re-add members who have been removed from a group chat on Discord. 
@@ -15,8 +15,7 @@ It leverages the Discord.js library to achieve this functionality.
 1. Clone the repository or download the source code.
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the following command to install the required dependencies:
-
-   ```
+```
    npm install discord.js-selfbot-v13
    ```
 
@@ -63,6 +62,4 @@ It leverages the Discord.js library to achieve this functionality.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
 Feel free to customize and expand on this template based on your specific needs and project details.
