@@ -5,9 +5,10 @@ have 2 accounts in `accounts.json` and its almost impossible to kick you,
 3 accounts = *godmode*
 
 ```
-# Discord ResilientBot
+# Discord ReboundGuardian
 
-Discord ResilientBot is a self-bot written in Node.js that helps you automatically re-add members who have been removed from a group chat on Discord. It leverages the Discord.js library to achieve this functionality.
+ReboundGuardian is a self-bot written in Node.js that helps you automatically re-add members who have been removed from a group chat on Discord. 
+It leverages the Discord.js library to achieve this functionality.
 
 ## Installation
 
@@ -39,7 +40,7 @@ Discord ResilientBot is a self-bot written in Node.js that helps you automatical
    }
    ```
 
-   Add as many accounts as you need, following the same structure. Make sure to replace `YOUR_DISCORD_TOKEN` with your Discord token and `YOUR_DISCORD_ID` with your Discord user ID. You can find your token and ID by following the instructions [here](https://discordjs.guide/preparations/setting-up-a-bot-application.html).
+   Add as many accounts as you need, following the same structure. Make sure to replace `YOUR_DISCORD_TOKEN` with your Discord token and `YOUR_DISCORD_ID` with your Discord user ID. You can find your token and ID by following the instructions [here](https://www.youtube.com/watch?v=YEgFvgg7ZPI).
 
 ## Usage
 
