@@ -10,6 +10,11 @@ have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 ReboundGuardian is a self-bot written in Node.js that helps you automatically re-add members who have been removed from a group chat on Discord. 
 It leverages the Discord.js library to achieve this functionality.
 
+### Bonus ⭐
+A second tool that will neutralize this tool.
+[AntiReboundGuardian](https://github.com/fknMega/AntiReboundGuardian)
+
+
 ## Installation
 
 1. Clone the repository or download the source code.
