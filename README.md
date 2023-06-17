@@ -6,7 +6,7 @@
 
 ## Basic Info
 ReboundGuardian will add a member once its kicked from a group,
-which will makes you *godmode* in that group,
+which in theory will make you unkickable from that group,
 have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 3 accounts = *godmode*
 <p align="center">
