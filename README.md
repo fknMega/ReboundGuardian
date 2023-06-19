@@ -12,8 +12,18 @@ have 2 accounts in `accounts.json` and it is almost impossible to kick you,
 <p align="center">
 
 <img src='https://i.ibb.co/H7GYcYL/Mega-Github-Readme.png' width='1000'>
+<img src='https://img.shields.io/github/downloads/fknMega/ReboundGuardian/total.svg' width='150'>
+
+
+
  </p>
-   
+
+ <p align="center">
+   <a href="https://github.com/fknMega/ReboundGuardian/releases/tag/Releases">
+    <img src="http://en-ru.gigabyte-data.com/microsites/data/167/download-color.png" width='300'>
+  </a>
+ </p>
+ 
 # Discord ReboundGuardian
 
 ReboundGuardian is a self-bot written in Node.js that helps you automatically re-add members who have been removed from a group chat on Discord. 
