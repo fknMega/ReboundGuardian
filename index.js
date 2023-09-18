@@ -3,7 +3,7 @@ const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const fs = require('fs');
 
 const accounts = JSON.parse(fs.readFileSync('accounts.json', 'utf8')).accounts;
-const accountIds = accounts.map(account => account.id);
+const accountIds = () => clients.map(client => client.user.id);
 
 const clients = [];
 
@@ -40,7 +40,7 @@ function createClient(token) {
 
     const memberId = member.id;
 
-    if (accountIds.includes(memberId)) {
+    if (accountIds().includes(memberId)) {
       const startTime = Date.now();
 
       // Add the account back to the group chat
@@ -59,7 +59,7 @@ function createClient(token) {
 }
 
 for (const account of accounts) {
-  const { token, id } = account;
+  const { token } = account;
   const client = createClient(token);
   clients.push(client);
 }
