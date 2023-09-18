@@ -1,12 +1,10 @@
 {
     "accounts": [
       {
-        "token": "account-one-token",
-        "id": "110391---"
+        "token": "account-one-token"
       },
       {
-        "token": "account-two-token",
-        "id": "10----"
+        "token": "account-two-token"
       }
     ]
   }
