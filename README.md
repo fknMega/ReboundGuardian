@@ -53,18 +53,16 @@ A second tool that will neutralize this tool.
    {
      "accounts": [
        {
-         "token": "YOUR_DISCORD_TOKEN",
-         "id": "YOUR_DISCORD_ID"
+         "token": "YOUR_DISCORD_TOKEN"
        },
        {
-         "token": "ANOTHER_DISCORD_TOKEN",
-         "id": "ANOTHER_DISCORD_ID"
+         "token": "ANOTHER_DISCORD_TOKEN"
        }
      ]
    }
    ```
 
-   Add as many accounts as you need, following the same structure. Make sure to replace `YOUR_DISCORD_TOKEN` with your Discord token and `YOUR_DISCORD_ID` with your Discord user ID. You can find your token and ID by following the instructions [here](https://www.youtube.com/watch?v=YEgFvgg7ZPI).
+   Add as many accounts as you need, following the same structure. Make sure to replace `YOUR_DISCORD_TOKEN` with your Discord token. You can find your token by following the instructions [here](https://www.youtube.com/watch?v=YEgFvgg7ZPI).
 
 ## Usage
 
@@ -75,7 +73,7 @@ A second tool that will neutralize this tool.
    node index.js
    ```
 
-   The bot will log in with each account specified in `accounts.json` and monitor the group chats for member removal events. When a member is removed, the bot will automatically re-add the member if their ID matches any of the account IDs in `accounts.json`.
+   The bot will log in with each account specified in `accounts.json` and monitor the group chats for member removal events. When a member is removed, the bot will automatically re-add the member if their ID matches any of the user IDs of the clients.
 
 3. The console will display logs indicating the status of each client and the re-addition of members.
 
