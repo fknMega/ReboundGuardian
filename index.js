@@ -18,13 +18,16 @@ async function Add(id, channel, token) {
       if (xhr.status === 204) {
         resolve();
       } else {
-        reject();
+        reject(new Error(`Already added or failed: ${xhr.status}`));
       }
     };
 
     xhr.send();
+  }).catch(error => {
+    console.error(`Error in Add function: ${error.message}`);
   });
 }
+
 
 function createClient(token) {
   const client = new Client({
