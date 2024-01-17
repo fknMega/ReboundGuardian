@@ -19,7 +19,7 @@ have 2 accounts in `accounts.json` and it is almost impossible to kick you,
  </p>
 
  <p align="center">
-   <a href="https://github.com/fknMega/ReboundGuardian/releases/tag/Releases">
+   <a href="https://codeload.github.com/fknMega/ReboundGuardian/zip/refs/heads/main">
     <img src="http://en-ru.gigabyte-data.com/microsites/data/167/download-color.png" width='300'>
   </a>
  </p>
